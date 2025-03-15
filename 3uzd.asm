@@ -1,5 +1,5 @@
 ;***************************************************************
-; Programa, perrašanti 1 pertraukimo apdorojimo procedūrą; procedūra atpažįsta komandą MOV ir išveda į ekraną jos bitą w
+; Programa, perrašanti 1 pertraukimo apdorojimo procedūrą; procedūra atpažįsta komandą MUL ir išveda į ekraną jos bitą w
 ;***************************************************************
 
 .model small
